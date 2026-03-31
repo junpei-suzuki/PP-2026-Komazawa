@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+
+lang: ja
+
+website:
+  title: "政治過程論@駒大2026"
+  page-footer: 
+    right: "@2026 Junpei Suzuki"
+  sidebar:
+    style: floating
+    search: true
+    collapse-level: 2
+    contents:
+      - text: "シラバス"
+        href: 00_syllabus.qmd
+      - text: ---
+      - text: "01/前期の導入"
+        href: 01_intro_1.qmd
+      - section: "政治過程の全体像（前期）"
+        contents:
+        - text: "02/政治過程の全体像"
+          href: 02_pp-overview.qmd
+        - text: "03/政治過程と権力"
+          href: 03_power.qmd
+      - section: "市民・有権者"
+        contents:
+        - text: "04/市民と政治参加"
+          href: 04_participation.qmd
+      - section: "政党"
+      - section: "利益団体"
+      - section: "まとめと試験（前期）"
+      - text: ---
+      - text: "16/後期の導入"
+      - section: "政治過程の全体像（後期）"
+      - section: "官僚"
+      - section: "制度"
+      - section: "隣接分野"
+      - section: "まとめと試験（後期）"
+format:
+  html:
+    theme: a11y
+    grid:
+      sidebar-width: 250px
+    number-sections: false
+    toc: true
+    link-external-newwindow: true
+
+freeze: auto
+

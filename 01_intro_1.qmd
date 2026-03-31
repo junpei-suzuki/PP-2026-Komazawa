@@ -1,0 +1,16 @@
+---
+title: "01/前期の導入"
+modified-date: today
+format: html
+abstract:
+  本科目の目的・計画・評価方法・諸注意を紹介し、受講の可否の判断材料を提供する。仲間と受講の動機を共有し、今後学んでいくための環境を整える。
+---
+
+### 準備学習
+
+- [ ] 【事前】シラバスを熟読し、興味があるトピックについて書き留めておく。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+
+### スライド
+
+{{< revealjs file="01_intro_1_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

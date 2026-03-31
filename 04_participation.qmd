@@ -1,0 +1,15 @@
+---
+title: "04/市民と政治参加"
+modified-date: today
+format: html
+abstract:
+  選挙参加をはじめとした、政治参加のさまざまなあり方を学ぶ。政治文化論の見地から国間の違いを概観したうえで、イングルハートやパットナムの議論を踏まえて政治文化の要因を考察する。
+---
+
+### 準備学習
+
+- [ ] 【事前】教科書（V-1〜2、V-10〜11）を読む。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+
+### スライド
+{{< revealjs file="04_participation_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

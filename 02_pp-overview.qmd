@@ -1,0 +1,15 @@
+---
+title: "02/政治過程の全体像"
+modified-date: today
+format: html
+abstract:
+  イーストンの「政治システム」概念を手がかりに、政治過程の全体像を描写する。政治過程の各段階において重要な役割を果たすアクター（登場人物）を列挙し概観する。
+---
+
+### 準備学習
+
+- [ ] 【事前】教科書（序-1、序-2）を読む。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+
+### スライド
+{{< revealjs file="02_pp-overview_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

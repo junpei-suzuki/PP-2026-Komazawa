@@ -1,0 +1,20 @@
+---
+title: "03/政治過程と権力"
+modified-date: today
+format: html
+abstract:
+  コミュニティ権力論争を手がかりに、政治学が「権力」概念をどのように定義してきたか学ぶ。政治学が科学であるためにはどうすれば良いかを考えるとともに、抽象的な概念を定義し測定する際の難しさを体感する。
+---
+
+### 準備学習
+
+- [ ] 【事前】教科書（序-3）を読む。
+- [ ] 【事前】WebClass上で「反証可能性」についての講義動画を視聴する（スライド①参照）。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+
+### スライド①：反証可能性
+{{< revealjs file="03_power_falsifiability_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
+
+### スライド②：本講義用スライド
+{{< revealjs file="03_power_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
+

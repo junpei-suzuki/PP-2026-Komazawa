@@ -1,0 +1,15 @@
+{
+  "hash": "d468662c9c25e63230a0defeb9d62b60",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"政治過程論@駒澤大学\"\ndate: 2026-04-01\ndate-modified: today\nauthor:\n  - name: 鈴木淳平\n    affiliation: 駒澤大学法学部政治学科\n    email: jsuzuki060309@outlook.com\n    url: https://junpei-suzuki.github.io\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
