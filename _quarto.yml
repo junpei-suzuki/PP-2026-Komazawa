@@ -30,6 +30,8 @@ website:
         contents:
         - text: "04/市民と政治参加"
           href: 04_participation.qmd
+        - text: "05/選挙と投票参加"
+          href: 05_election.qmd
       - section: "政党"
       - section: "利益団体"
       - section: "まとめと試験（前期）"
