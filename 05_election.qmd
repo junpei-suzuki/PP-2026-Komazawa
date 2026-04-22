@@ -10,6 +10,7 @@ abstract:
 
 - [ ] 【事前】教科書（V-3、V-9）を読む。
 - [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+- [ ] 【事後】WebClass上でのリアクションペーパー入力（日曜日まで）
 
 ### スライド
 {{< revealjs file="05_election_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

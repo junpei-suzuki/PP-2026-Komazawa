@@ -11,6 +11,7 @@ abstract:
 - [ ] 【事前】教科書（序-3）を読む。
 - [ ] 【事前】WebClass上で「反証可能性」についての講義動画を視聴する（スライド①参照）。
 - [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+- [ ] 【事後】WebClass上でのリアクションペーパー入力（日曜日まで）
 
 ### スライド①：反証可能性
 {{< revealjs file="03_power_falsifiability_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

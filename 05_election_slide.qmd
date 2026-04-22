@@ -15,6 +15,9 @@ metadata-files:
   - "style/slide.yml"
 ---
 
+## 出席登録をお願いします
+![](figs/attendance_webclass.png)
+
 ## 今日の目次
 
 1. はじめに
