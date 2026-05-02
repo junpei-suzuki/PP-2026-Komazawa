@@ -1627,7 +1627,7 @@
     "href": "06_voting_slide.html#次回までに",
     "title": "06/投票行動の理論",
     "section": "次回までに",
-    "text": "次回までに\n事後学習\n\n授業資料を見直し、目標到達をセルフチェック\nWebClass上でのリアクションペーパー入力（日曜日まで）\n\n授業で学んだモデルのうち、最も説得的に思うものについて記入（通常の感想欄とは別）\n\n\n事前学習\n\n教科書（V-12〜V-15）を読み、WebClass 上でのチェックフォーム記入"
+    "text": "次回までに\n事後学習\n\n授業資料を見直し、目標到達をセルフチェック\nWebClass上でのリアクションペーパー入力（日曜日まで）\n\n授業で学んだモデルのうち、最も説得的に思うものについて記入（通常の感想欄とは別）\n\n\n事前学習\n\n教科書（V-12〜V-15）を読み、WebClass 上でのチェックフォーム記入\n【任意】参考文献（小川 [2025]）を読む。"
   },
   {
     "objectID": "06_voting_slide.html#質問webclassチャット",
@@ -1800,5 +1800,282 @@
     "title": "03/政治過程と権力",
     "section": "先週のRPより（続）",
     "text": "先週のRPより（続）\n\n政治システム論の入力、変換、出力の流れにおいてアクターが関わっているということを学んだ。政治家が政党は出力の時に政策の実行ということにおいてフィードバックに入るのではないのかと思ったので知りたい。\n\n\n\n先週は出力とフィードバックを一緒くたにしたが、本来は違うもの\n政治家は政策の執行を官僚に委ねるので、出力にはあまり関わらない\n\nプリンシパル＝エージェント理論→後期第21回\n\nただしフィードバックには関わる\n\n例えば、野党政治家が政府の政策の問題点を追求して、世論喚起を図るなど"
+  },
+  {
+    "objectID": "07_electoralsystem.html#出席登録をお願いします",
+    "href": "07_electoralsystem.html#出席登録をお願いします",
+    "title": "07/選挙制度",
+    "section": "出席登録をお願いします",
+    "text": "出席登録をお願いします"
+  },
+  {
+    "objectID": "07_electoralsystem.html#今日の目次",
+    "href": "07_electoralsystem.html#今日の目次",
+    "title": "07/選挙制度",
+    "section": "今日の目次",
+    "text": "今日の目次\n\nはじめに\n選挙制度の概要\n多数代表制／デュヴェルジェの法則\n比例代表制\n日本の選挙制度\nまとめ"
+  },
+  {
+    "objectID": "07_electoralsystem.html#先週のrpより",
+    "href": "07_electoralsystem.html#先週のrpより",
+    "title": "07/選挙制度",
+    "section": "先週のRPより",
+    "text": "先週のRPより\nTBD"
+  },
+  {
+    "objectID": "07_electoralsystem.html#本日の目的と到達目標",
+    "href": "07_electoralsystem.html#本日の目的と到達目標",
+    "title": "07/選挙制度",
+    "section": "本日の目的と到達目標",
+    "text": "本日の目的と到達目標\n\n目的\n多数代表制や比例代表制といった制度を紹介し、世界の選挙制度について概観する。デュベルジェの法則を通じて、選挙制度が投票行動や政党システムに与える影響を考察する。日本の選挙制度の特徴である選挙制度不均一についても論じる。\n\n到達目標\n\n多数代表制と比例代表制とはそれぞれ何かを説明できる。\nデュヴェルジェの法則を踏まえて選挙制度と政党システムの関係を説明できる。\n得票数の数値例に最大平均法あるいは最大剰余法適用し、比例代表制下の議席獲得率を計算できる。\n日本の選挙制度の特徴である選挙制度不均一について、その実態と影響を説明できる。"
+  },
+  {
+    "objectID": "07_electoralsystem.html#本日の授業の位置付け",
+    "href": "07_electoralsystem.html#本日の授業の位置付け",
+    "title": "07/選挙制度",
+    "section": "本日の授業の位置付け",
+    "text": "本日の授業の位置付け"
+  },
+  {
+    "objectID": "07_electoralsystem.html#本日の目的と到達目標-1",
+    "href": "07_electoralsystem.html#本日の目的と到達目標-1",
+    "title": "07/選挙制度",
+    "section": "本日の目的と到達目標",
+    "text": "本日の目的と到達目標\n\n目的\n多数代表制や比例代表制といった制度を紹介し、世界の選挙制度について概観する。デュベルジェの法則を通じて、選挙制度が投票行動や政党システムに与える影響を考察する。日本の選挙制度の特徴である選挙制度不均一についても論じる。\n\n到達目標\n\n多数代表制と比例代表制とはそれぞれ何かを説明できる。\nデュヴェルジェの法則を踏まえて選挙制度と政党システムの関係を説明できる。\n得票数の数値例に最大平均法あるいは最大剰余法適用し、比例代表制下の議席獲得率を計算できる。\n日本の選挙制度の特徴である選挙制度不均一について、その実態と影響を説明できる。"
+  },
+  {
+    "objectID": "07_electoralsystem.html#次回までに",
+    "href": "07_electoralsystem.html#次回までに",
+    "title": "07/選挙制度",
+    "section": "次回までに",
+    "text": "次回までに\n事後学習\n\n授業資料を見直し、目標到達をセルフチェック\nWebClass上でのリアクションペーパー入力（日曜日まで）\n\n事前学習\n\n教科書（I-1〜2、I-7〜8）を読む。"
+  },
+  {
+    "objectID": "07_electoralsystem.html#選挙制度",
+    "href": "07_electoralsystem.html#選挙制度",
+    "title": "07/選挙制度",
+    "section": "選挙制度",
+    "text": "選挙制度\n選挙に関するさまざまなルール1\n\n投票を議席に変換するルール（cf. 入力と変換）\n\n多数代表制…得票数の多い順に議席を配分\n比例代表制…政党ごとの得票に比例して議席を配分\n混合制…両者の組み合わせ\n\n\n\nその他のルール\n\n選挙区定数 (magnitude)…1人か複数か\n投票方式…単記制、連記制、優先順位制…\n\n\n小川寛貴（2025）「選挙制度－日本が特異なのか？」浅古泰史・善教将大編『数理とデータで読み解く日本政治』日本評論社，p.22．"
+  },
+  {
+    "objectID": "07_electoralsystem.html#世界の選挙制度",
+    "href": "07_electoralsystem.html#世界の選挙制度",
+    "title": "07/選挙制度",
+    "section": "世界の選挙制度",
+    "text": "世界の選挙制度\n\n\n英語圏の国々は多数代表（Plurality/Majority）が多い\nヨーロッパの国々は比例代表が多い（PR）が多い\n日本は混合（Mixed）"
+  },
+  {
+    "objectID": "07_electoralsystem.html#多数代表制-majoritarian-representation",
+    "href": "07_electoralsystem.html#多数代表制-majoritarian-representation",
+    "title": "07/選挙制度",
+    "section": "多数代表制 (majoritarian representation)",
+    "text": "多数代表制 (majoritarian representation)\n\n得票数の多い順に議席を配分するシステム\n\n小選挙区制（定数1人）と大選挙区制（定数2人-）\n\n\n多数派や大政党が有利なシステム\n\n特に小選挙区制ではトップ以外は落選\n少数派や小政党への投票は「死票」に\n\n\n\nギャラガー指標 (Gallagher Index)\n得票率と議席率の乖離（＝非比例性）を測る指標\n\n\n\\[\nG = \\sqrt{\\frac{1}{2}\\sum_{i=1}^{n}(v_i-s_i)^2}\n\\] \\(n\\)個の政党；\\(v_i\\)：政党\\(i\\)の得票率；\\(s_i\\)：政党\\(i\\)の議席率\n\n\n→多数代表制は比例代表制よりも大きい（教科書p.79の表１）\n\n\n\n\\(n\\)個ある政党のうち、政党\\(i\\)の得票率\\(v_i\\)から議席率\\(v_i\\)を引いて二乗したのを全部の政党を足して2で割ってルートをとる\nギャラガー指標が大きい→得票率よりも多い議席率が割り当てられている"
+  },
+  {
+    "objectID": "07_electoralsystem.html#アンケート",
+    "href": "07_electoralsystem.html#アンケート",
+    "title": "07/選挙制度",
+    "section": "アンケート",
+    "text": "アンケート\nある選挙区で以下の候補者が立っています。\n\n\n\n\n候補者\nあなたの態度\n情勢\n\n\n\n\n井上勝\n大好き\n追い上げ\n\n\n田中洋平\n大嫌い\n優勢\n\n\n佐藤みゆき\nまあ好き\n優勢\n\n\n\n\n2人当選するとしたら、誰に投票しますか\n1人当選するとしたら、誰に投票しますか\n\n\n\nWebClassアンケートで回答してください。"
+  },
+  {
+    "objectID": "07_electoralsystem.html#デュヴェルジェの法則-duvergers-law",
+    "href": "07_electoralsystem.html#デュヴェルジェの法則-duvergers-law",
+    "title": "07/選挙制度",
+    "section": "デュヴェルジェの法則 (Duverger’s Law)",
+    "text": "デュヴェルジェの法則 (Duverger’s Law)\n\n\n小選挙区制では二大政党制に、比例代表制では多党制になる\n\n機械的効果…小政党の議席獲得は難しい\n心理的効果…有権者が戦略投票を行う\n\n小党は勝てないとわかっている有権者\n大政党でましな方に投票\ncf. 誠実投票…自分の選好通りに投票\n\n\n\nCf. \\(M+1\\)ルール…政党数は選挙区定数(\\(M\\))に1を加えた数になる傾向\n\n\n Maurice Duverger\n(1917-2014)"
+  },
+  {
+    "objectID": "07_electoralsystem.html#比例代表制-proportional-representation",
+    "href": "07_electoralsystem.html#比例代表制-proportional-representation",
+    "title": "07/選挙制度",
+    "section": "比例代表制 (proportional representation)",
+    "text": "比例代表制 (proportional representation)\n政党ごとの得票に比例して議席を配分するシステム\n\n政党名簿式…政党が提出した候補者リストに基づく\n\n拘束名簿式…政党に対して投票\n非拘束名簿式…政党および候補者に対して投票\n\n単記移譲式…候補者に優先順位をつけて投票\n\n\n得票から議席への変換方式\n\n最大剰余法…ヘアー式、ドループ式…\n最大平均法…ドント式、アダムズ式、サン＝ラグ式…\n\n\n\n比例代表制といえば基本的には政党名簿式\n単記移譲式はアイルランド、オーストラリア、マルタだけ"
+  },
+  {
+    "objectID": "07_electoralsystem.html#最大剰余法ヘアー式",
+    "href": "07_electoralsystem.html#最大剰余法ヘアー式",
+    "title": "07/選挙制度",
+    "section": "最大剰余法（ヘアー式）",
+    "text": "最大剰余法（ヘアー式）\n基数…投票総数を定数で割ったもの\n\n投票総数100,000票で5議席を配分する例\n\n基数\\(100,000 \\div 5 = 20,000\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n政党\n得票数\n得票数÷基数（1段階目議席）\n余り\n2段階目議席\n獲得議席\n\n\n\n\n自民党\n60,000\n3\n0\n0\n3\n\n\n中道改革\n28,000\n1\n8,000\n0\n1\n\n\n維新の会\n12,000\n0\n12,000\n1\n1\n\n\n合計\n100,000\n4\n20,000\n1\n5"
+  },
+  {
+    "objectID": "07_electoralsystem.html#最大平均法",
+    "href": "07_electoralsystem.html#最大平均法",
+    "title": "07/選挙制度",
+    "section": "最大平均法",
+    "text": "最大平均法\n投票総数100,000票で5議席を配分する例\n\n\n\n\n\n\n\n\n\n\n\n\n政党\n得票数\n÷1\n÷2\n÷3\n÷4\n獲得議席\n\n\n\n\n自民党\n60,000\n60,000①\n30,000②\n20,000④\n15,000⑤\n3\n\n\n中道改革\n28,000\n28,000③\n14,000\n\n\n1\n\n\n維新の会\n12,000\n12,000\n\n\n\n1\n\n\n合計\n100,000\n\n\n\n\n5"
+  },
+  {
+    "objectID": "07_electoralsystem.html#最大平均法ドント方式",
+    "href": "07_electoralsystem.html#最大平均法ドント方式",
+    "title": "07/選挙制度",
+    "section": "最大平均法（ドント方式）",
+    "text": "最大平均法（ドント方式）\n各党の得票数を自然数で順次割りその商の大きさの順に議席を配分\n\n投票総数100,000票で5議席を配分する例\n\n\n\n\n\n\n\n\n\n\n\n\n政党\n得票数\n÷1\n÷2\n÷3\n÷4\n獲得議席\n\n\n\n\n自民党\n60,000\n60,000①\n30,000②\n20,000④\n15,000⑤\n4\n\n\n中道改革\n28,000\n28,000③\n14,000\n\n\n1\n\n\n維新の会\n12,000\n12,000\n\n\n\n0\n\n\n合計\n100,000\n\n\n\n\n5\n\n\n\n\n\n最大剰余法よりも大政党が有利＝非比例性指標が高い"
+  },
+  {
+    "objectID": "07_electoralsystem.html#演習",
+    "href": "07_electoralsystem.html#演習",
+    "title": "07/選挙制度",
+    "section": "演習",
+    "text": "演習\n4党が10議席を争う選挙で次のような得票になりました。\nヘアー式とドント式ではそれぞれどのような議席配分になるでしょうか\n\n\n\n政党名\n得票数\nヘアー式\nドント式\n\n\n\n\n家系党\n250,000\n?\n?\n\n\n二郎の会\n120,000\n?\n?\n\n\n蒙古中本連合\n80,000\n?\n?\n\n\n新党がんこ\n50,000\n?\n?\n\n\n合計\n500,000\n10\n10\n\n\n\n\n\n\n\n政党名\n得票数\nヘアー式\nドント式\n\n\n\n\n家系党\n250,000\n5\n6\n\n\n二郎の会\n120,000\n2\n2\n\n\n蒙古中本連合\n80,000\n2\n1\n\n\n新党がんこ\n50,000\n1\n1\n\n\n合計\n500,000\n10\n10"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#出席登録をお願いします",
+    "href": "07_electoralsystem_slide.html#出席登録をお願いします",
+    "title": "07/選挙制度",
+    "section": "出席登録をお願いします",
+    "text": "出席登録をお願いします"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#今日の目次",
+    "href": "07_electoralsystem_slide.html#今日の目次",
+    "title": "07/選挙制度",
+    "section": "今日の目次",
+    "text": "今日の目次\n\nはじめに\n選挙制度の概要\n多数代表制／デュヴェルジェの法則\n比例代表制\n日本の選挙制度\nまとめ"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#先週のrpより",
+    "href": "07_electoralsystem_slide.html#先週のrpより",
+    "title": "07/選挙制度",
+    "section": "先週のRPより",
+    "text": "先週のRPより\nTBD"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#本日の目的と到達目標",
+    "href": "07_electoralsystem_slide.html#本日の目的と到達目標",
+    "title": "07/選挙制度",
+    "section": "本日の目的と到達目標",
+    "text": "本日の目的と到達目標\n\n目的\n多数代表制や比例代表制といった制度を紹介し、世界の選挙制度について概観する。デュベルジェの法則を通じて、選挙制度が投票行動や政党システムに与える影響を考察する。日本の選挙制度の特徴である選挙制度不均一についても論じる。\n\n到達目標\n\n多数代表制と比例代表制とはそれぞれ何かを説明できる。\nデュヴェルジェの法則を踏まえて選挙制度と政党システムの関係を説明できる。\n最大平均法あるいは最大剰余法を用いて比例代表制下の議席獲得率を計算できる。\n日本の選挙制度の特徴である選挙制度不均一について、その実態と影響を説明できる。"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#本日の授業の位置付け",
+    "href": "07_electoralsystem_slide.html#本日の授業の位置付け",
+    "title": "07/選挙制度",
+    "section": "本日の授業の位置付け",
+    "text": "本日の授業の位置付け"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#選挙制度",
+    "href": "07_electoralsystem_slide.html#選挙制度",
+    "title": "07/選挙制度",
+    "section": "選挙制度",
+    "text": "選挙制度\n選挙に関するさまざまなルール1\n\n投票を議席に変換するルール（cf. 入力と変換）\n\n多数代表制…得票数の多い順に議席を配分\n比例代表制…政党ごとの得票に比例して議席を配分\n混合制…両者の組み合わせ\n\n\n\nその他のルール\n\n選挙区定数 (magnitude)…1人か複数か\n投票方式…単記制、連記制、優先順位制…\n\n\n小川寛貴（2025）「選挙制度－日本が特異なのか？」浅古泰史・善教将大編『数理とデータで読み解く日本政治』日本評論社，p.22．"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#世界の選挙制度",
+    "href": "07_electoralsystem_slide.html#世界の選挙制度",
+    "title": "07/選挙制度",
+    "section": "世界の選挙制度",
+    "text": "世界の選挙制度\n\n\n英語圏の国々は多数代表（Plurality/Majority）が多い\nヨーロッパの国々は比例代表が多い（PR）が多い\n日本は混合（Mixed）"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#多数代表制-majoritarian-representation",
+    "href": "07_electoralsystem_slide.html#多数代表制-majoritarian-representation",
+    "title": "07/選挙制度",
+    "section": "多数代表制 (majoritarian representation)",
+    "text": "多数代表制 (majoritarian representation)\n\n得票数の多い順に議席を配分するシステム\n\n小選挙区制（定数1人）と大選挙区制（定数2人-）\n\n\n多数派や大政党が有利なシステム\n\n特に小選挙区制ではトップ以外は落選\n少数派や小政党への投票は「死票」に\n\n\n\nギャラガー指標 (Gallagher Index)\n得票率と議席率の乖離（＝非比例性）を測る指標\n\n\n\\[\nG = \\sqrt{\\frac{1}{2}\\sum_{i=1}^{n}(v_i-s_i)^2}\n\\] \\(n\\)個の政党；\\(v_i\\)：政党\\(i\\)の得票率；\\(s_i\\)：政党\\(i\\)の議席率\n\n\n→多数代表制は比例代表制よりも大きい（教科書p.79の表１）\n\n\n\n\\(n\\)個ある政党のうち、政党\\(i\\)の得票率\\(v_i\\)から議席率\\(v_i\\)を引いて二乗したのを全部の政党を足して2で割ってルートをとる\nギャラガー指標が大きい→得票率よりも多い議席率が割り当てられている"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#アンケート",
+    "href": "07_electoralsystem_slide.html#アンケート",
+    "title": "07/選挙制度",
+    "section": "アンケート",
+    "text": "アンケート\nある選挙区で以下の候補者が立っています。\n\n\n\n\n候補者\nあなたの態度\n情勢\n\n\n\n\n井上勝\n大好き\n追い上げ\n\n\n田中洋平\n大嫌い\n優勢\n\n\n佐藤みゆき\nまあ好き\n優勢\n\n\n\n\n2人当選するとしたら、誰に投票しますか\n1人当選するとしたら、誰に投票しますか\n\n\n\nWebClassアンケートで回答してください。"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#デュヴェルジェの法則-duvergers-law",
+    "href": "07_electoralsystem_slide.html#デュヴェルジェの法則-duvergers-law",
+    "title": "07/選挙制度",
+    "section": "デュヴェルジェの法則 (Duverger’s Law)",
+    "text": "デュヴェルジェの法則 (Duverger’s Law)\n\n\n小選挙区制では二大政党制に、比例代表制では多党制になる\n\n機械的効果…小政党の議席獲得は難しい\n心理的効果…有権者が戦略投票を行う\n\n小党は勝てないとわかっている有権者\n大政党でましな方に投票\ncf. 誠実投票…自分の選好通りに投票\n\n\n\nCf. \\(M+1\\)ルール…政党数は選挙区定数(\\(M\\))に1を加えた数になる傾向\n\n\n Maurice Duverger\n(1917-2014)"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#比例代表制-proportional-representation",
+    "href": "07_electoralsystem_slide.html#比例代表制-proportional-representation",
+    "title": "07/選挙制度",
+    "section": "比例代表制 (proportional representation)",
+    "text": "比例代表制 (proportional representation)\n政党ごとの得票に比例して議席を配分するシステム\n\n政党名簿式…政党が提出した候補者リストに基づく\n\n拘束名簿式…政党に対して投票\n非拘束名簿式…政党および候補者に対して投票\n\n単記移譲式…候補者に優先順位をつけて投票\n\n\n得票から議席への変換方式\n\n最大剰余法…ヘアー式、ドループ式…\n最大平均法…ドント式、アダムズ式、サン＝ラグ式…\n\n\n\n比例代表制といえば基本的には政党名簿式\n単記移譲式はアイルランド、オーストラリア、マルタだけ"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#最大剰余法ヘアー式",
+    "href": "07_electoralsystem_slide.html#最大剰余法ヘアー式",
+    "title": "07/選挙制度",
+    "section": "最大剰余法（ヘアー式）",
+    "text": "最大剰余法（ヘアー式）\n基数…投票総数を定数で割ったもの\n\n投票総数100,000票で5議席を配分する例\n\n基数\\(100,000 \\div 5 = 20,000\\)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n政党\n得票数\n得票数÷基数（1段階目議席）\n余り\n2段階目議席\n獲得議席\n\n\n\n\n自民党\n60,000\n3\n0\n0\n3\n\n\n中道改革\n28,000\n1\n8,000\n0\n1\n\n\n維新の会\n12,000\n0\n12,000\n1\n1\n\n\n合計\n100,000\n4\n20,000\n1\n5"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#最大平均法ドント方式",
+    "href": "07_electoralsystem_slide.html#最大平均法ドント方式",
+    "title": "07/選挙制度",
+    "section": "最大平均法（ドント方式）",
+    "text": "最大平均法（ドント方式）\n各党の得票数を自然数で順次割りその商の大きさの順に議席を配分\n\n投票総数100,000票で5議席を配分する例\n\n\n\n\n\n\n\n\n\n\n\n\n政党\n得票数\n÷1\n÷2\n÷3\n÷4\n獲得議席\n\n\n\n\n自民党\n60,000\n60,000①\n30,000②\n20,000④\n15,000⑤\n4\n\n\n中道改革\n28,000\n28,000③\n14,000\n\n\n1\n\n\n維新の会\n12,000\n12,000\n\n\n\n0\n\n\n合計\n100,000\n\n\n\n\n5\n\n\n\n\n\n最大剰余法よりも大政党が有利＝非比例性指標が高い"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#演習",
+    "href": "07_electoralsystem_slide.html#演習",
+    "title": "07/選挙制度",
+    "section": "演習",
+    "text": "演習\n4党が10議席を争う選挙で次のような得票になりました。\nヘアー式とドント式ではそれぞれどのような議席配分になるでしょうか\n\n\n\n政党名\n得票数\nヘアー式\nドント式\n\n\n\n\n家系党\n250,000\n?\n?\n\n\n二郎の会\n120,000\n?\n?\n\n\n蒙古中本連合\n80,000\n?\n?\n\n\n新党がんこ\n50,000\n?\n?\n\n\n合計\n500,000\n10\n10\n\n\n\n\n\n\n\n政党名\n得票数\nヘアー式\nドント式\n\n\n\n\n家系党\n250,000\n5\n6\n\n\n二郎の会\n120,000\n2\n2\n\n\n蒙古中本連合\n80,000\n2\n1\n\n\n新党がんこ\n50,000\n1\n1\n\n\n合計\n500,000\n10\n10"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#本日の目的と到達目標-1",
+    "href": "07_electoralsystem_slide.html#本日の目的と到達目標-1",
+    "title": "07/選挙制度",
+    "section": "本日の目的と到達目標",
+    "text": "本日の目的と到達目標\n\n目的\n多数代表制や比例代表制といった制度を紹介し、世界の選挙制度について概観する。デュベルジェの法則を通じて、選挙制度が投票行動や政党システムに与える影響を考察する。日本の選挙制度の特徴である選挙制度不均一についても論じる。\n\n到達目標\n\n多数代表制と比例代表制とはそれぞれ何かを説明できる。\nデュヴェルジェの法則を踏まえて選挙制度と政党システムの関係を説明できる。\n最大平均法あるいは最大剰余法を用いて比例代表制下の議席獲得率を計算できる\n日本の選挙制度の特徴である選挙制度不均一について、その実態と影響を説明できる。"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#次回までに",
+    "href": "07_electoralsystem_slide.html#次回までに",
+    "title": "07/選挙制度",
+    "section": "次回までに",
+    "text": "次回までに\n事後学習\n\n授業資料を見直し、目標到達をセルフチェック\nWebClass上でのリアクションペーパー入力（日曜日まで）\n\n事前学習\n\n教科書（I-1〜2、I-7〜8）を読む。"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#演習ワークシート",
+    "href": "07_electoralsystem_slide.html#演習ワークシート",
+    "title": "07/選挙制度",
+    "section": "演習（ワークシート）",
+    "text": "演習（ワークシート）\n4党が10議席を争う選挙で次のような得票になりました。\nヘアー式とドント式ではそれぞれどのような議席配分になるでしょうか？\n\n\n\n政党名\n得票数\nヘアー式\nドント式\n\n\n\n\n家系党\n250,000\n?\n?\n\n\n二郎の会\n120,000\n?\n?\n\n\n蒙古中本連合\n80,000\n?\n?\n\n\n新党がんこ\n50,000\n?\n?\n\n\n合計\n500,000\n10\n10\n\n\n\n\n\n\n\n政党名\n得票数\nヘアー式\nドント式\n\n\n\n\n家系党\n250,000\n5\n6\n\n\n二郎の会\n120,000\n2\n2\n\n\n蒙古中本連合\n80,000\n2\n1\n\n\n新党がんこ\n50,000\n1\n1\n\n\n合計\n500,000\n10\n10"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#日本の選挙制度-1",
+    "href": "07_electoralsystem_slide.html#日本の選挙制度-1",
+    "title": "07/選挙制度",
+    "section": "日本の選挙制度",
+    "text": "日本の選挙制度\n多数代表の比重が大きい混合制\n\n衆議院…小選挙区比例代表並立制\n\n定数1人の小選挙区（289）\n都道府県単位の拘束名簿式比例区（176）\n重複立候補可能\n\n参議院\n\n定数1-6人の選挙区（148）\n全国単位の非拘束名簿式比例区（100）\n重複立候補不可\n\n都道府県・市町村議会…複数定数が多い選挙区制"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#質問",
+    "href": "07_electoralsystem_slide.html#質問",
+    "title": "07/選挙制度",
+    "section": "質問",
+    "text": "質問\n小選挙区と比例代表が両方ある日本の衆議院議員選挙においては、完全に小選挙区制のアメリカなどと比べると有権者は戦略投票しやすくなると思いますか？あるいはしにくくなると思いますか？"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#選挙区不均一",
+    "href": "07_electoralsystem_slide.html#選挙区不均一",
+    "title": "07/選挙制度",
+    "section": "選挙区不均一",
+    "text": "選挙区不均一\n一国内に異なる選挙制度が混在していること\n\n衆院と参院、制度と制度、選挙区と選挙区、国政と地方、地方と地方…\n特に参院の選挙区間定数の不均一が世界的に見ても大きい\n\n有権者や政党の行動に影響\n\n小政党の小選挙区進出\n\n例：参政党と共産党\n\n心理的効果の弱まり"
+  },
+  {
+    "objectID": "07_electoralsystem_slide.html#選挙制度不均一",
+    "href": "07_electoralsystem_slide.html#選挙制度不均一",
+    "title": "07/選挙制度",
+    "section": "選挙制度不均一",
+    "text": "選挙制度不均一\n一国内に異なる選挙制度が混在していること\n\n衆院と参院、制度と制度、選挙区と選挙区、国政と地方、地方と地方…\n特に参院の選挙区間定数の不均一が世界的に見ても大きい\n\n\n有権者や政党の行動に影響\n\n小政党の小選挙区進出\n\n例：参政党と共産党\n\n心理的効果の弱まり\n\n小政党にも勝ち目があると認識\n戦略投票ではなく誠実投票\n\n並立制の理念の形骸化\n\n\n\n衆院の並立制は元々政党を中心とした選挙を行なって政権交代可能な政治を目指して導入された\nそれまでは中選挙区制（定数3〜5人）→候補者本位の選挙で派閥が発達し政党の規律が弱かった（特に自民党）"
+  },
+  {
+    "objectID": "07_electoralsystem.html",
+    "href": "07_electoralsystem.html",
+    "title": "07/選挙制度",
+    "section": "",
+    "text": "準備学習\n\n【事前】教科書（V-12〜V-15）を読む。\n【事前・任意】小川（2025）を読む。\n\nWebClass上にアップしてあります。\n\n【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。\n【事後】WebClass上でのリアクションペーパー入力（日曜日まで）\n\n\n\nスライド\n    View slides in full screen",
+    "crumbs": [
+      "市民・有権者",
+      "07/選挙制度"
+    ]
   }
 ]
