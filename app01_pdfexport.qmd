@@ -1,0 +1,41 @@
+---
+title: "付録01/スライドの保存方法"
+modified-date: today
+format: html
+---
+
+## はじめに
+この授業では[Reveal.js](https://revealjs.com/)というツールを用いてスライドを作成しています。詳細は割愛しますが、HTMLやCSS、Javascriptなどのプログラミング言語を用いてスライドを作成するツールです。[^revealjs] 現在のIT業界やアカデミアでは最先端のプレゼンテーションツールではありますが、ファイルとして保存する際には少しクセがあります。以下、Reveal.jsで作成したスライドをPDFファイルとして保存する方法を解説します。
+
+[^revealjs]: [https://easegis.jp/blog/reveal/](https://easegis.jp/blog/reveal/)
+
+## PDFファイル保存の手順
+
+1. 各授業回ページで「View sleides in full screen」を押し、スライドをフルスクリーン表示にする
+
+   ![](figs/full_screen1.png)
+
+   ![フルスクリーンにできました](figs/full_screen2.png)
+
+2. 左下の「三」のようなマークでメニューバーを開き、さらに「Tools」（歯車マーク）タブをクリックする。
+
+   ![右下のやつです](figs/menu_bar0.png)
+
+   ![上の歯車のアイコンです](figs/menu_bar1.png)
+
+   ![Toolsメニューが開けました](figs/menu_bar2.png)
+
+3. Toolメニューから「PDF Export Mode」をクリックする。
+   - ちなみにフルスクリーン表示にしたあと、キーボードで「e」を入力しても2-3の手順と同じことができる。
+
+   ![PDF Export Modeを押す](figs/menu_bar3.png)
+    
+   ![上下にスクロールできるようになればOK](figs/export_mode.png)
+    
+4. ブラウザの印刷機能でPDFに保存する。
+    - 使用するブラウザによる（担当教員はFireFoxを使っています）。
+    - 1枚あたり6ページがおすすめ（他だとうまくいかない）
+    
+    ![FireFoxでのプリントの仕方](figs/print_1.png)
+    
+   ![PDFとして保存](figs/print_2.png)

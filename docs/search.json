@@ -2112,5 +2112,49 @@
     "title": "05/選挙と投票参加",
     "section": "投票しないパラドックス",
     "text": "投票しないパラドックス\nParadox of Not Voting\n\nPの値はせいぜい数万分の一程度→\\(P \\times B\\)の値も極めて小さい\n\n\nしたがってふつう\\(R = P \\times B - C&lt;0\\)→誰も投票に行かない\n\n\nしかし、実際には投票率は低くても40%→ダウンズモデルでは説明できない"
+  },
+  {
+    "objectID": "app01_pdfexport.html",
+    "href": "app01_pdfexport.html",
+    "title": "付録01/スライドの保存方法",
+    "section": "",
+    "text": "この授業ではReveal.jsというツールを用いてスライドを作成しています。詳細は割愛しますが、HTMLやCSS、Javascriptなどのプログラミング言語を用いてスライドを作成するツールです。1 現在のIT業界やアカデミアでは最先端のプレゼンテーションツールではありますが、ファイルとして保存する際には少しクセがあります。以下、Reveal.jsで作成したスライドをPDFファイルとして保存する方法を解説します。",
+    "crumbs": [
+      "付録",
+      "付録01/スライドの保存方法"
+    ]
+  },
+  {
+    "objectID": "app01_pdfexport.html#はじめに",
+    "href": "app01_pdfexport.html#はじめに",
+    "title": "付録01/スライドの保存方法",
+    "section": "",
+    "text": "この授業ではReveal.jsというツールを用いてスライドを作成しています。詳細は割愛しますが、HTMLやCSS、Javascriptなどのプログラミング言語を用いてスライドを作成するツールです。1 現在のIT業界やアカデミアでは最先端のプレゼンテーションツールではありますが、ファイルとして保存する際には少しクセがあります。以下、Reveal.jsで作成したスライドをPDFファイルとして保存する方法を解説します。",
+    "crumbs": [
+      "付録",
+      "付録01/スライドの保存方法"
+    ]
+  },
+  {
+    "objectID": "app01_pdfexport.html#footnotes",
+    "href": "app01_pdfexport.html#footnotes",
+    "title": "付録01/スライドの保存方法",
+    "section": "脚注",
+    "text": "脚注\n\n\nhttps://easegis.jp/blog/reveal/↩︎",
+    "crumbs": [
+      "付録",
+      "付録01/スライドの保存方法"
+    ]
+  },
+  {
+    "objectID": "app01_pdfexport.html#pdfファイル保存の手順",
+    "href": "app01_pdfexport.html#pdfファイル保存の手順",
+    "title": "付録01/スライドの保存方法",
+    "section": "PDFファイル保存の手順",
+    "text": "PDFファイル保存の手順\n\n各授業回ページで「View sleides in full screen」を押し、スライドをフルスクリーン表示にする\n\n\n\n\nフルスクリーンにできました\n\n\n左下の「三」のようなマークでメニューバーを開き、さらに「Tools」（歯車マーク）タブをクリックする。\n\n\n\n右下のやつです\n\n\n\n\n\n上の歯車のアイコンです\n\n\n\n\n\nToolsメニューが開けました\n\n\nToolメニューから「PDF Export Mode」をクリックする。\n\nちなみにフルスクリーン表示にしたあと、キーボードで「e」を入力しても2-3の手順と同じことができる。\n\n\n\n\nPDF Export Modeを押す\n\n\n\n\n\n上下にスクロールできるようになればOK\n\n\nブラウザの印刷機能でPDFに保存する。\n\n使用するブラウザによる（担当教員はFireFoxを使っています）。\n1枚あたり6ページがおすすめ（他だとうまくいかない）\n\n\n\n\nFireFoxでのプリントの仕方\n\n\n\n\n\nPDFとして保存",
+    "crumbs": [
+      "付録",
+      "付録01/スライドの保存方法"
+    ]
   }
 ]

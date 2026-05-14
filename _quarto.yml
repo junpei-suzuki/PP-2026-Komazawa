@@ -50,6 +50,10 @@ website:
       - section: "制度"
       - section: "隣接分野"
       - section: "まとめと試験（後期）"
+      - section: "付録"
+        contents:
+        - text: "付録01/スライドの保存方法"
+          href: app01_pdfexport.qmd        
 format:
   html:
     theme: a11y
