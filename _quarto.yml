@@ -18,8 +18,10 @@ website:
       - text: "シラバス"
         href: 00_syllabus.qmd
       - text: ---
-      - text: "01/前期の導入"
-        href: 01_intro_1.qmd
+      - section: "イントロダクション（前期）"
+        contents:
+        - text: "01/前期の導入"
+          href: 01_intro_1.qmd
       - section: "政治過程の全体像（前期）"
         contents:
         - text: "02/政治過程の全体像"
@@ -40,7 +42,9 @@ website:
       - section: "利益団体"
       - section: "まとめと試験（前期）"
       - text: ---
-      - text: "16/後期の導入"
+      - section: "イントロダクション（後期）"
+        contents:
+        - text: "16/後期の導入"
       - section: "政治過程の全体像（後期）"
       - section: "官僚"
       - section: "制度"
