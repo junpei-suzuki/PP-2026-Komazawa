@@ -1,0 +1,16 @@
+---
+title: "08/政党"
+modified-date: today
+format: html
+abstract:
+  政党とは何か、その目的と政治システムの中で果たす機能を概観する。組織の面から近代政党の成立に至るまでの歴史を辿るとともに、日本の自由民主党の組織上の特徴を考察する。
+---
+
+### 準備学習
+
+- [ ] 【事前】教科書（I-1〜2、I-7〜8）を読む。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+- [ ] 【事後】WebClass上でのリアクションペーパー入力（日曜日まで）
+
+### スライド
+{{< revealjs file="08_political-party_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
