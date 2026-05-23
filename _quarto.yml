@@ -42,6 +42,8 @@ website:
         contents:
         - text: "08/政党"
           href: 08_political-party.qmd        
+        - text: "09/政党システム"
+          href: 09_party-system.qmd     
       - section: "利益団体"
       - section: "まとめと試験（前期）"
       - text: ---
