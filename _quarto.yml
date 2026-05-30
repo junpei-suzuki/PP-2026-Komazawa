@@ -43,7 +43,9 @@ website:
         - text: "08/政党"
           href: 08_political-party.qmd        
         - text: "09/政党システム"
-          href: 09_party-system.qmd     
+          href: 09_party-system.qmd   
+        - text: "10/政党間競争と協力"
+          href: 10_party-competition-cooperation.qmd
       - section: "利益団体"
       - section: "まとめと試験（前期）"
       - text: ---
