@@ -141,7 +141,7 @@ TBD
 :::
 
 ::: {.fragment .fade-in}
-Q. 日本と中国の政党システムは同じと言えるか？（[WebClassチャット](https://webclass.komazawa-u.ac.jp/webclass/login.php?id=148fc7c1d51076c82287779d88861530)）
+Q. 日本と中国の政党システムは同じと言えるか？（[WebClassチャット](https://webclass.komazawa-u.ac.jp/webclass/login.php?id=c6ba3da7496018ed402530b2877abb20)）
 :::
 :::
 

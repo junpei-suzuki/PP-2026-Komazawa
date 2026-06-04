@@ -342,7 +342,7 @@ TBD
 今回の事前学習課題（中北2019）にはどのようなことが書かれていたか、隣と相談してもいいので見つけてみてください。
 
 ::: {.fragment .fade-in}
-[WebClassチャット](https://webclass.komazawa-u.ac.jp/webclass/login.php?id=75cad44cca00ffcdf5ecd051a53ed5d1)で共有
+[WebClassチャット](https://webclass.komazawa-u.ac.jp/webclass/login.php?id=d28a815900a964b101aac5277a11de4c)で共有
 
 ![](figs/10_party-conpetition-cooperation_chatQR.png){width=30%}
 
