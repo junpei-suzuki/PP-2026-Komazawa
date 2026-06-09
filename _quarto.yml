@@ -47,6 +47,9 @@ website:
         - text: "10/政党間競争と協力"
           href: 10_party-competition-cooperation.qmd
       - section: "利益団体"
+        contents:
+        - text: "11/利益団体"
+          href: 11_organized-interest.html
       - section: "まとめと試験（前期）"
       - text: ---
       - section: "イントロダクション（後期）"

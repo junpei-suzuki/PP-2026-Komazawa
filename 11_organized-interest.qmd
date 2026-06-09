@@ -1,0 +1,16 @@
+---
+title: "11/利益団体"
+modified-date: today
+format: html
+abstract:
+  選挙外の政治過程でとりわけ重要となる利益団体について学ぶ。利益集団や利益団体、圧力団体といった類似の概念を明確化するとともに、政治システムで果たす機能を考察する。実際の利益団体の例・分類・活動を知る。
+---
+
+### 準備学習
+
+- [ ] 【事前】教科書（II-1〜3）を読む。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+- [ ] 【事後】WebClass上でのリアクションペーパー入力（日曜日まで）
+
+### スライド
+{{< revealjs file="11_organized-interest_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
