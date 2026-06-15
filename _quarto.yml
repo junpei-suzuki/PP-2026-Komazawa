@@ -50,6 +50,8 @@ website:
         contents:
         - text: "11/利益団体"
           href: 11_organized-interest.html
+        - text: "12/利益団体の理論"
+          href: 12_interest-theories.html
       - section: "まとめと試験（前期）"
       - text: ---
       - section: "イントロダクション（後期）"
