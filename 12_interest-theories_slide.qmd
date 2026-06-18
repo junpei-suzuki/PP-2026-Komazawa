@@ -28,6 +28,9 @@ metadata-files:
 1. まとめ
 
 # はじめに
+::: {.notes}
+目標15分
+:::
 ## 先週のRPより
 TBD
 
