@@ -7,7 +7,7 @@ modified-date: today
 
 format: 
   revealjs:
-    footer: "利益団体"
+    footer: "利益団体の理論"
     mermaid:
       theme: neutral
 
