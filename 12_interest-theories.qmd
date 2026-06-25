@@ -1,5 +1,5 @@
 ---
-title: "12/利益団体"
+title: "12/利益団体の理論"
 modified-date: today
 format: html
 abstract:
