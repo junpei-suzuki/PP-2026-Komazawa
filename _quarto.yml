@@ -55,6 +55,9 @@ website:
         - text: "13/利益代表の制度"
           href: 13_interest-system.html
       - section: "まとめと試験（前期）"
+        contents:
+        - text: "14/前期のまとめ"
+          href: 14_review.html
       - text: ---
       - section: "イントロダクション（後期）"
         contents:
