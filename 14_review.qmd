@@ -3,12 +3,13 @@ title: "14/学んだことのまとめ"
 modified-date: today
 format: html
 abstract:
-  グループワークによるスライド作成とギャラリーウォークを行い、授業で学んだことを思い出して整理し定着を図る。
+  前期で学んだことを思い出し、ワークを通じて期末試験に向けた準備を行う。
 ---
 
 ### 準備学習
 - [ ] 【事前】これまでの授業内容を見直し、わからないことや気なる点を書き留めておく。
-- [ ] 【事後】グループワークの成果を見直し、理解度の確認に備える。
+- [ ] 【事後】ワークの成果を見直し、理解度の確認に備える。
 
 ### スライド
-{{< revealjs file="14_review_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
+TBD
+<!-- {{< revealjs file="14_review_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}} -->
