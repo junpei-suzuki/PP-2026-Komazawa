@@ -11,5 +11,4 @@ abstract:
 - [ ] 【事後】ワークの成果を見直し、理解度の確認に備える。
 
 ### スライド
-TBD
-<!-- {{< revealjs file="14_review_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}} -->
+{{< revealjs file="14_review_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
