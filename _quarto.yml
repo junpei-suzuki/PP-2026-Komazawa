@@ -58,6 +58,8 @@ website:
         contents:
         - text: "14/前期のまとめ"
           href: 14_review.html
+        - text: "15/前期期末試験"
+          href: 15_exam.html
       - text: ---
       - section: "イントロダクション（後期）"
         contents:
