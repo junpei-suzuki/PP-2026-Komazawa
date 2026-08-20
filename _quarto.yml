@@ -17,62 +17,82 @@ website:
     contents:
       - text: "シラバス"
         href: 00_syllabus.qmd
-      - text: ---
+      - text: "---"
       - section: "イントロダクション（前期）"
         contents:
-        - text: "01/前期の導入"
-          href: 01_intro_1.qmd
+          - text: "01/前期の導入"
+            href: 01_intro_1.qmd
       - section: "政治過程の全体像（前期）"
         contents:
-        - text: "02/政治過程の全体像"
-          href: 02_pp-overview.qmd
-        - text: "03/政治過程と権力"
-          href: 03_power.qmd
+          - text: "02/政治過程の全体像"
+            href: 02_pp-overview.qmd
+          - text: "03/政治過程と権力"
+            href: 03_power.qmd
       - section: "市民・有権者"
         contents:
-        - text: "04/市民と政治参加"
-          href: 04_participation.qmd
-        - text: "05/選挙と投票参加"
-          href: 05_election.qmd
-        - text: "06/投票行動の理論"
-          href: 06_voting.qmd
-        - text: "07/選挙制度"
-          href: 07_electoralsystem.qmd
+          - text: "04/市民と政治参加"
+            href: 04_participation.qmd
+          - text: "05/選挙と投票参加"
+            href: 05_election.qmd
+          - text: "06/投票行動の理論"
+            href: 06_voting.qmd
+          - text: "07/選挙制度"
+            href: 07_electoralsystem.qmd
       - section: "政党"
         contents:
-        - text: "08/政党"
-          href: 08_political-party.qmd        
-        - text: "09/政党システム"
-          href: 09_party-system.qmd   
-        - text: "10/政党間競争と協力"
-          href: 10_party-competition-cooperation.qmd
+          - text: "08/政党"
+            href: 08_political-party.qmd
+          - text: "09/政党システム"
+            href: 09_party-system.qmd   
+          - text: "10/政党間競争と協力"
+            href: 10_party-competition-cooperation.qmd
       - section: "利益団体"
         contents:
-        - text: "11/利益団体"
-          href: 11_organized-interest.html
-        - text: "12/利益団体の理論"
-          href: 12_interest-theories.html
-        - text: "13/利益代表の制度"
-          href: 13_interest-system.html
+          - text: "11/利益団体"
+            href: 11_organized-interest.html
+          - text: "12/利益団体の理論"
+            href: 12_interest-theories.html
+          - text: "13/利益代表の制度"
+            href: 13_interest-system.html
       - section: "まとめと試験（前期）"
         contents:
-        - text: "14/前期のまとめ"
-          href: 14_review.html
-        - text: "15/前期期末試験"
-          href: 15_exam.html
-      - text: ---
+          - text: "14/前期のまとめ"
+            href: 14_review.html
+          - text: "15/前期期末試験"
+            href: 15_exam.html
+      - text: "---"
       - section: "イントロダクション（後期）"
         contents:
-        - text: "16/後期の導入"
+          - text: "16/後期の導入"
+            href: 16_intro_2.html
       - section: "政治過程の全体像（後期）"
+        contents:
+          - text: "17/政策過程のモデル"
+          - text: "18/課題設定と政策ネットワーク"
+          - text: "19/メディア"
+          - text: "20/政策過程における組織"
       - section: "官僚"
+        contents:
+          - text: "21/官僚と官僚制"        
+          - text: "22/政策実施の過程"
       - section: "制度"
+        contents:
+          - text: "23/議会制度"
+          - text: "24/執政制度" 
+          - text: "25/地方自治制度" 
       - section: "隣接分野"
+        contents:
+          - text: "26/経済をめぐる政治過程"
+          - text: "27/国際関係をめぐる政治過程"
+          - text: "28/権威主義における政治過程"
       - section: "まとめと試験（後期）"
+        contents:
+          - text: "29/後期のまとめ"
+          - text: "30/後期期末試験"
       - section: "付録"
         contents:
-        - text: "付録01/スライドの保存方法"
-          href: app01_pdfexport.qmd        
+          - text: "付録01/スライドの保存方法"
+            href: app01_pdfexport.qmd        
 format:
   html:
     theme: a11y
@@ -83,4 +103,3 @@ format:
     link-external-newwindow: true
 
 freeze: auto
-

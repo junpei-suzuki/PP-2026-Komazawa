@@ -1,0 +1,13 @@
+---
+title: "16/後期の導入"
+modified-date: today
+format: html
+abstract:
+  前期の内容を復習するとともに、後期での学びに備える。
+---
+
+### 準備学習
+- [ ] 【事前】前期の授業内容を見直し、わからないことや気になる点を書き留めておく。
+
+### スライド
+{{< revealjs file="16_intro_2_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
