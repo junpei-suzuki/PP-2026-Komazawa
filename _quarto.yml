@@ -68,6 +68,7 @@ website:
       - section: "政治過程の全体像（後期）"
         contents:
           - text: "17/政策過程のモデル"
+            href: 17_policy-process.html
           - text: "18/課題設定と政策ネットワーク"
           - text: "19/メディア"
           - text: "20/政策過程における組織"

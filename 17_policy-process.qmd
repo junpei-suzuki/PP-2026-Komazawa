@@ -1,0 +1,16 @@
+---
+title: "17/政策過程のモデル"
+modified-date: today
+format: html
+abstract:
+  政策が決定され実施されるまでの過程である政策過程論を学ぶ。理念型としての段階モデルののち、段階モデルを批判するものとしてのゴミ缶モデルと政策の窓モデルを紹介する。
+---
+
+### 準備学習
+- [ ] 【事前】教科書（VII-1、XII-3）を読む。
+- [ ] 【事後】配布資料やノートを見直し、当該回の到達目標が達成できているかチェックする。
+- [ ] 【事後】WebClass上でのリアクションペーパー入力（日曜日まで）
+
+### スライド
+{{< revealjs file="17_policy-process_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
+
