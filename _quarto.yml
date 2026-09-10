@@ -72,6 +72,7 @@ website:
           - text: "18/課題設定と政策ネットワーク"
             href: 18_agenda.html
           - text: "19/メディア"
+            href: 19_media.html
           - text: "20/政策過程における組織"
       - section: "官僚"
         contents:
