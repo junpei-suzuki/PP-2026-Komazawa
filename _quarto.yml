@@ -74,6 +74,7 @@ website:
           - text: "19/メディア"
             href: 19_media.html
           - text: "20/政策過程における組織"
+            href: 20_decision.html
       - section: "官僚"
         contents:
           - text: "21/官僚と官僚制"        
