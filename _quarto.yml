@@ -80,6 +80,7 @@ website:
           - text: "21/官僚と官僚制"   
             href: 21_bureaucracy.html
           - text: "22/政策実施の過程"
+            href: 22_politico-bureaucratic.html
       - section: "制度"
         contents:
           - text: "23/議会制度"
