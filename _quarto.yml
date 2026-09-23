@@ -77,7 +77,8 @@ website:
             href: 20_decision.html
       - section: "官僚"
         contents:
-          - text: "21/官僚と官僚制"        
+          - text: "21/官僚と官僚制"   
+            href: 21_bureaucracy.html
           - text: "22/政策実施の過程"
       - section: "制度"
         contents:
