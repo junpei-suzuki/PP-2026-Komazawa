@@ -84,6 +84,7 @@ website:
       - section: "制度"
         contents:
           - text: "23/議会制度"
+            href: 23_parliament.html
           - text: "24/執政制度" 
           - text: "25/地方自治制度" 
       - section: "隣接分野"
