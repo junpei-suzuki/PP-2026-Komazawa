@@ -18,6 +18,15 @@ metadata-files:
 ## 出席登録をお願いします
 ![](figs/attendance_webclass.png)
 
+## 演習の追加募集
+- まだ枠が十分あるので、追加募集
+  - 11/12にKONECOでアナウンス
+  - 11/20〜12/1が応募期間（Google Form）
+- Google Formと成績表提出（面接は行わない）
+- 詳細はKONECO参照
+- 本格的にRを学び、政治現象を計量的に研究
+
+
 ## 今日の目次
 
 1. はじめに
