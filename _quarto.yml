@@ -87,7 +87,8 @@ website:
             href: 23_parliament.html
           - text: "24/執政制度"
             href: 24_executive.html
-          - text: "25/地方自治制度" 
+          - text: "25/中央地方制度"
+            href: 25_local.html
       - section: "隣接分野"
         contents:
           - text: "26/経済をめぐる政治過程"
